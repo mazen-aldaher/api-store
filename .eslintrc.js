@@ -22,7 +22,7 @@ module.exports = {
         ["@typescript-eslint", "prettier"]
     ],
     "rules": {
-        'prettier/prettier':2, // means error
-        'no0console': 1 // means warning
+        'prettier/prettier:2 // means error'
+        'no-console': 1 // means warning
     }
 }
